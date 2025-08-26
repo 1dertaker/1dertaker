@@ -1,5 +1,6 @@
-
+<a>
 <img src="https://i.ibb.co/sdqNHHfp/Sin-t-tulo.webp" >
+</a>
 <h1 >Hi 👋, I'm 1dertaker dev.</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
 <h5 >I'm an programmer from Mar del plata, Argentina. I am like programming various type programs,from web designs to backend code. My point favourite is Web design, using libraries like Tailwind css & Bootstrap . <br><br>Am CEO/OWNER this mardel.studios,Where we my team work code .lua, .js, html for systems this FiveM and others games. </h5>
@@ -26,7 +27,6 @@
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB&labelColor=101010)](#)
 [![Laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%2361DAFB&labelColor=101010)](#)
 
 ## Contact me:
