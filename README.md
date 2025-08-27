@@ -27,7 +27,6 @@
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%2361DAFB&labelColor=101010)](#)
 
 ## Contact me:
 - [![Email](https://img.shields.io/badge/email-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:1dertaker@gmail.com)
