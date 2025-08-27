@@ -29,8 +29,8 @@
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 
 ## Contact me:
-- [![Email](https://img.shields.io/badge/email-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:1dertaker@gmail.com)
-- [![DISCORD](https://img.shields.io/badge/discord-4285F4?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/wveWeNtgzR)
+[![Email](https://img.shields.io/badge/email-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:1dertaker@gmail.com)
+[![DISCORD](https://img.shields.io/badge/discord-4285F4?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/wveWeNtgzR)
 
 ## Proyects (ended)
 [![ATLANTIC](https://img.shields.io/badge/ATLANTIC-007396?style=for-the-badge&logo=link&logoColor=white&labelColor=101010)](http://atlanticsecurity.com.ar/)
