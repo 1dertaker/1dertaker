@@ -3,7 +3,7 @@
 </a>
 <h1 >Hi 👋, I'm 1dertaker dev.</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
-<h5 >I'm an programmer from Mar del plata, Argentina. I am like programming various type programs,from web designs to backend code. My point favourite is Web design, using libraries like Tailwind css & Bootstrap . <br><br>I Am CEO/OWNER this mardel.studios,Where we my team work code .lua, .js, html for systems this FiveM and others games. </h5>
+<h5 >I'm an programmer from Argentina. I am like programming various type programs,from web designs to backend code. My point favourite is Web design, using libraries like Tailwind css & Bootstrap . <br><br>I Am CEO/OWNER this mardel.studios,Where we my team work code .lua, .js, html for systems this FiveM and others games. </h5>
 
 
 #### Programming Languages
