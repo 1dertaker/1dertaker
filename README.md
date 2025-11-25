@@ -1,5 +1,5 @@
 <a>
-<img src="https://i.ibb.co/sdqNHHfp/Sin-t-tulo.webp" >
+<img src="https://ibb.co/QvPmHHBz" >
 </a>
 <h1 >Hi 👋, I'm 1dertaker dev.</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
