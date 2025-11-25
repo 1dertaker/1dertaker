@@ -1,5 +1,5 @@
 <a>
-<img src="https://i.ibb.co/0yCJ99N8/264393275-1e3f22d5-5fbd-41ff-bd6f-4aee9dfae847.png" >
+<img style="width:100%;" src="https://i.ibb.co/0yCJ99N8/264393275-1e3f22d5-5fbd-41ff-bd6f-4aee9dfae847.png" >
 </a>
 <h1 >Hi 👋, I'm 1dertaker dev.</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
