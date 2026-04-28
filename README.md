@@ -3,7 +3,10 @@
 </a>
 <h1 >Hi 👋, I'm 1dertaker dev.</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
-<h5 >I'm an programmer from Argentina. I am like programming various type programs,from web designs to backend code. My point favourite is Web design, using libraries like Tailwind css & Bootstrap . <br><br>I Am CEO/OWNER this mardel.studios,Where we my team work code .lua, .js, html for systems this FiveM and others games. </h5>
+<h5 >I am a programmer based in Argentina with a strong passion for developing a wide range of applications, from modern web interfaces to robust backend systems. My primary focus lies in web design, where I leverage frameworks such as Tailwind CSS and Bootstrap to create clean, responsive, and visually engaging user experiences.
+<br><br>
+I am also the CEO and owner of Mardel Studios, where my team and I specialize in building systems for platforms like FiveM and other gaming environments. Our work spans multiple technologies, including Lua, JavaScript, and HTML, allowing us to deliver efficient, scalable, and high-quality solutions.
+</h5>
 
 
 #### Programming Languages
