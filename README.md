@@ -8,9 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-</div>
-
-
 I'm a programmer based in **Argentina**, passionate about building modern, scalable and efficient digital solutions.
 
 My main focus is **web development**, creating everything from modern landing pages and corporate websites to complete management systems, dashboards and business platforms.
