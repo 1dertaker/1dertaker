@@ -19,21 +19,6 @@ I'm also the **CEO & Owner of Mardel Studios**, a development studio focused on 
 
 ### 🏢 Mardel Studios
 
-**Mardel Studios** is a software development studio specialized in:
-
-* 🌐 Modern websites and landing pages
-* 📊 Custom management panels
-* ⚙️ Business management systems
-* 🤖 Process and business automations
-* 🔗 API integrations
-* 🛠️ Custom software solutions
-* 🎮 Systems for gaming platforms
-* 📱 Responsive and modern interfaces
-
-The goal of Mardel Studios is to transform business ideas and needs into **modern, scalable and easy-to-use digital products**.
-
----
-
 ## 💻 Technologies
 
 ### Languages & Runtime
@@ -74,7 +59,19 @@ The goal of Mardel Studios is to transform business ideas and needs into **moder
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
----
+
+**Mardel Studios** is a software development studio specialized in:
+
+* 🌐 Modern websites and landing pages
+* 📊 Custom management panels
+* ⚙️ Business management systems
+* 🤖 Process and business automations
+* 🔗 API integrations
+* 🛠️ Custom software solutions
+* 🎮 Systems for gaming platforms
+* 📱 Responsive and modern interfaces
+
+The goal of Mardel Studios is to transform business ideas and needs into **modern, scalable and easy-to-use digital products**.
 
 ## 🛠️ What I Build
 
@@ -104,22 +101,11 @@ Gaming
 └── Custom Gaming Solutions
 ```
 
----
-
-## 📂 Projects
-
-### 🌐 Atlantic Security
-
-A professional security company website and digital platform.
-
-[![ATLANTIC](https://img.shields.io/badge/ATLANTIC-007396?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://atlanticsecurity.com.ar/)
-
----
 
 ## 📫 Contact
 
 <p>
-  <a href="mailto:1dertaker@gmail.com">
+  <a href="mailto:1dertaker.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-1dertaker%40gmail.com-DD0031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
