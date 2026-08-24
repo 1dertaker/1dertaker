@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<img src="https://i.ibb.co/cczSfDdh/mardelstudios2.webp" alt="Banner" width="10%">
+<img src="https://i.ibb.co/cczSfDdh/mardelstudios2.webp" alt="Banner" width="50%">
 <br>
 
 ## 1dertaker dev. 
