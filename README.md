@@ -1,15 +1,16 @@
 
 <div align="left">
 
-<img src="https://i.ibb.co/rKVjPY6Y/mardelstudios.webp" alt="Banner" width="10%">
+<img src="https://i.ibb.co/cczSfDdh/mardelstudios2.webp" alt="Banner" width="10%">
+<br>
 
+## 1dertaker dev. 
 <p>
   <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </div>
 
-## 🚀 About Me
 
 I'm a programmer based in **Argentina**, passionate about building modern, scalable and efficient digital solutions.
 
