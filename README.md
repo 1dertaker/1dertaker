@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<img src="https://i.ibb.co/rKVjPY6Y/mardelstudios.webp" alt="Banner" width="100%">
+<img src="https://i.ibb.co/rKVjPY6Y/mardelstudios.webp" alt="Banner" width="10%">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
