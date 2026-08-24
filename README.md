@@ -2,7 +2,6 @@
 <div align="left">
 
 <img src="https://i.ibb.co/HLrfP4XD/mardelstudios2.webp" alt="Banner" width="30%">
-<br>
 
 ## 1dertaker dev. 
 <p>
