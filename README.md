@@ -1,20 +1,13 @@
-Sí. Para GitHub conviene prepararlo como un **README.md real**, evitando HTML innecesario y usando Markdown compatible con GitHub. También corregí la estructura para que se vea más profesional en el perfil.
 
-<div align="center">
+<div align="left">
 
-# 👋 Hi, I'm 1dertaker
-
-### Full-Stack Developer · Founder & CEO of Mardel Studios
+<img src="https://i.ibb.co/5xvr8hmB/264393275-1e3f22d5-5fbd-41ff-bd6f-4aee9dfae847-1.webp" alt="Banner" width="100%">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </div>
-
----
-
-<img src="https://i.ibb.co/5xvr8hmB/264393275-1e3f22d5-5fbd-41ff-bd6f-4aee9dfae847-1.webp" alt="Banner" width="100%">
 
 ## 🚀 About Me
 
