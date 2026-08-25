@@ -1,8 +1,4 @@
 
-<div align="left">
-
-<img src="https://i.ibb.co/HLrfP4XD/mardelstudios2.webp" alt="Banner" width="30%">
-
 ## 1dertaker dev. 
 <p>
   <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
